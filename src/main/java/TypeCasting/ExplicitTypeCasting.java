@@ -10,9 +10,7 @@ public class ExplicitTypeCasting {
 		 * 
 		 * understand the below data types hierarchy.
 		 * 
-		 *  bytes <- short <- int <- long <- float <- double
-		 *  				   |
-		 *  				  char
+		 *  bytes <- short and char <- int <- long <- float <- double
 		 * 
 		 * */
 		
